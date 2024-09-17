@@ -1,7 +1,7 @@
 - 👋 Hi, I’m hareesh 
 - 🌱 I’m currently pursuing Bsc IT
 - 💞️ I’m looking to collaborate on Java & Web related projects
-- 📫 You csn reach out to me via hareeshgurung@gmail.com
+- 📫 You can reach out to me via hareeshgurung@gmail.com
 - 😄 Pronouns: he/him
 
 <!---
